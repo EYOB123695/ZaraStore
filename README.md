@@ -13,7 +13,7 @@ the main project will contain an API that will control and manage the modules.
 
 project structure for module1 (the web-app) will look like this: 
 
-file:///home/dechasa/Pictures/module1Structure.png
+![web-app project tree](file:///home/dechasa/Pictures/module1Structure.png)
 
 
 project structure for module2 will look like this: 
