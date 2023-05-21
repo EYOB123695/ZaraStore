@@ -11,9 +11,12 @@ both modules share a common database which they will use.
 
 the main project will contain an API that will control and manage the modules. 
 
-project structure for module1 (the web-app) will look like this: 
+**project structure for module1 (the web-app) will look like this: **
+
 ![web-app project tree](https://github.com/Dechie/ZaraStore/blob/main/module1Structure.png)
 
-project structure for module2 will look like this: 
+
+**project structure for module2 will look like this: **
+
 ![inventory management project tree](https://github.com/Dechie/ZaraStore/blob/main/module2Structure.png)
 
